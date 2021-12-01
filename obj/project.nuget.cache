@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kzzht5gJFOLnUtxGtHj6iP9uic3ma1+aTMiz0f7gH0cGZFP+5sUVnPb2ZDICYPUcfT3dgtmGXgjlm0QQLbg1CQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AbhimanyuG\\source\\repos\\RepotoDockerpushproject\\RepotoDockerpushproject\\RepotoDockerpushproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AbhimanyuG\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
